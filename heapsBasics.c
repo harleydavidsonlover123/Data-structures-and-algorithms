@@ -9,6 +9,8 @@ edit functions parameters
 
 #define MAX 20
 
+printf("Hello guys");
+
 typedef struct node
 {
     int key;
